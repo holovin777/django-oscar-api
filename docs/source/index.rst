@@ -13,7 +13,7 @@ This package provides a RESTful API for `django-oscar`_, it's based on `django-r
 
 Requirements:
 -------------
-- Ppython 3.5 / 3.6 / 3.7
+- Python 3.5 / 3.6 / 3.7
 - Oscar >= 2.0.0
 - Django 2.1 / 2.2
 - Django Rest Framework >= 3.9
